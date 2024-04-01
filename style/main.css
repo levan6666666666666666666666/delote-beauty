@@ -91,7 +91,7 @@ label {
     height: 100%;
     width: 475px;
 
-    font-size: 18px;
+    font-size: 18px;   
     font-weight: 400;
 }
 
@@ -118,4 +118,27 @@ hr {
     width: 1280px;
     margin: 0 auto;
     border-color: #FFFFFF80;
-}
+}/* about */
+
+    blockquote:: {
+content: before  url(.. style img blockquote svg)
+    }
+
+    .service img {
+        width: 1296px;
+    height: 832px;
+    top: 1638px;
+    left: 312px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    width: 1296px;
+    
+ .service 
+  }
+height: 832px;
+top: 1638px;
+left: 312px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
